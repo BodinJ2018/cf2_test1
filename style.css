@@ -9,13 +9,17 @@ height: 20vh;
 Set the text color in evil genius to red and the background color to black
 and in robot set the text color to black with the background color to red
 */
+<div class="col-sm-7 evilSide">{
+background-color:blue;	
+
+}
 .halfscreen{
 height:50vh;
 }
 
 .evilSide{
 height:50vh;
-
+backgroundcolor-:blue;
 }
 
 .robotSide{
